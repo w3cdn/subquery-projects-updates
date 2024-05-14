@@ -9,6 +9,9 @@ Connect in seconds to SubQuery's decentralised network of RPC node operators run
 
 Arbitrum is a Layer 2 scaling solution for Ethereum, aiming to improve scalability and reduce transaction fees. It achieves this by processing transactions off the Ethereum mainnet, using a sidechain with its own consensus mechanism. Users can interact with the Arbitrum network through compatible wallets and dapps, benefiting from faster and cheaper transactions compared to using the Ethereum mainnet directly.
 
+https://app.subquery.network/explorer/project/0x23/overview
+____
+
 ## Project type: `RPC`
 
 ## Project category: ``
