@@ -2,7 +2,8 @@
 ####  
 https://app.subquery.network/explorer/project/0x29/overview
 ____
-#### Deployed At: 2024-03-29T16:44:13____
+#### Deployed At: 2024-03-29T16:44:13
+____
 
 ## Project type:
 `Indexer Project`
