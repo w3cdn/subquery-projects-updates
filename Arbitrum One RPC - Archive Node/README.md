@@ -11,7 +11,8 @@ Arbitrum is a Layer 2 scaling solution for Ethereum, aiming to improve scalabili
 
 https://app.subquery.network/explorer/project/0x23/overview
 ____
-#### Deployed At: 2024-03-21T03:05:55____
+#### Deployed At: 2024-03-21T03:05:55
+____
 
 ## Project type:
 `RPC`
