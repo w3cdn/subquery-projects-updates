@@ -3,6 +3,9 @@
 
 Connect in seconds to SubQuery's decentralised network of RPC node operators running around the world so your dApps benefit from more reliable, scalable, and affordable RPC services. By accessing this public RPC endpoint, you agree to our [Free Public RPC terms of service](https://subquery.foundation/public-rpc-terms).
 
+https://app.subquery.network/explorer/project/0x2d/overview
+____
+
 ## Project type: `RPC`
 
 ## Project category: ``
