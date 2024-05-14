@@ -7,6 +7,7 @@ New project: QmPiTswpMTeipwnmJkAcwkcg5Se8XfrucGYVKbwuAxQgJ6
 
 ## Upgrade instructions
  1) Stop old project from coordinator (`QmV25WVPgdmAgRCqkbGUU49xdeg9td3CK5LbtBjeQEMxTW`)
+ 
 ```
 docker container rm -f query_qmv25wvpgdmagrcdocker container rm -f node_qmv25wvpgdmagrc```
 
