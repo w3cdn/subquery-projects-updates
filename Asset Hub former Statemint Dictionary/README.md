@@ -1,6 +1,9 @@
 # Subquery project Asset Hub (former Statemint) Dictionary
 ####  A SubQuery Dictionary is able to massively improve the indexing performance of your SubQuery Project. The Dictionary endpoint can be added in your 'project.yaml' file or specified at when deploying in SubQuery Projects.
 
+https://app.subquery.network/explorer/project/0x16/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: `Dictionary`
