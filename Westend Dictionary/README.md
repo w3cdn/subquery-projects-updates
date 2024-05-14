@@ -1,6 +1,9 @@
 # Subquery project Westend Dictionary
 ####  Westend provides a testing environment for our infrastructure partners to test their Polkadot and Kusama deployment and processes.
 
+https://app.subquery.network/explorer/project/0x10/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: `Dictionary`
