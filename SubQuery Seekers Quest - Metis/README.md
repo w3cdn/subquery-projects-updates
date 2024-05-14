@@ -2,15 +2,34 @@
 ####  This is a project for the [SubQuery Seekers Program](https://seekers.subquery.foundation). It indexes token holders on Metis
 https://app.subquery.network/explorer/project/0x28/overview
 ____
+#### Deployed At: 2024-03-26T04:13:49____
 
-## Project type: `Indexer Project`
+## Project type:
+`Indexer Project`
 
-## Project category: `Gaming`
+## Project category:
+`Gaming`
 
-## Is Project Official? `No`
+## Is Project Official?
+`No`
 
-## Latest release version: `1.0.0`
+## Latest release version:
+`1.0.0`
 
-## Latest release hash: `QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
+## Latest release hash:
+`QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
 
-## Deployed At: 2024-03-26T04:13:49
+
+
+___
+### Setup your own indexer:
+
+[https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md](https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md)
+
+### Projects Updates Alerts channel:
+
+[https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD](https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD)
+
+### Subquery Indexers Monitoring:
+
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot)
