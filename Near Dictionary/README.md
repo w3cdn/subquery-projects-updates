@@ -9,7 +9,8 @@ https://archival-rpc.mainnet.near.org
 
 https://app.subquery.network/explorer/project/0x19/overview
 ____
-#### Deployed At: 2024-02-25T12:47:09____
+#### Deployed At: 2024-02-25T12:47:09
+____
 
 ## Project type:
 `Indexer Project`
