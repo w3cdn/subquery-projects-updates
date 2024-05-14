@@ -11,7 +11,8 @@ Ethereum is a public, permissionless network that allows anyone to participate b
 
 https://app.subquery.network/explorer/project/0x27/overview
 ____
-#### Deployed At: 2024-03-21T03:24:39____
+#### Deployed At: 2024-03-21T03:24:39
+____
 
 ## Project type:
 `RPC`
