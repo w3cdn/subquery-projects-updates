@@ -1,6 +1,9 @@
 # Subquery project Moonriver Dictionary
 ####  Moonriver is a companion network to Moonbeam and provides a permanently incentivized canary network. New code ships to Moonriver first, where it can be tested and verified under real economic conditions. Once proven, the same code ships to Moonbeam on Polkadot.
 
+https://app.subquery.network/explorer/project/0x08/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: `Dictionary`
