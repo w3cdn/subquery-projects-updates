@@ -4,7 +4,8 @@ Recommend to use dictionary to speed up indexing: https://dict-tyk.subquery.netw
 
 https://app.subquery.network/explorer/project/0x0b/overview
 ____
-#### Deployed At: 2024-04-19T10:44:33____
+#### Deployed At: 2024-04-19T10:44:33
+____
 
 ## Project type:
 `Indexer Project`
