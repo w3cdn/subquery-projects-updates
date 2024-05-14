@@ -1,18 +1,18 @@
 # Migration from v1.0.0 to v1.0.1
 ```
-Old project: undefined
-New project: undefined
+Old project: QmVJebjZdWAFmhNYx27NRmJ3YgsP8UN94e9GSRxtCRgSJC
+New project: QmaDYnfKZohnH98zZQBxUSgnHKmbmwyA8VAf72EyA2zntC
 ```
 
 
 ## Upgrade instructions
- 1) Stop old project from coordinator (`undefined`)
+ 1) Stop old project from coordinator (`QmVJebjZdWAFmhNYx27NRmJ3YgsP8UN94e9GSRxtCRgSJC`)
  2) Execute query.
 
 ```
-docker exec postgres psql -U postgres -c "ALTER SCHEMA schema_undefined RENAME TO schema_undefined;"
+docker exec postgres psql -U postgres -c "ALTER SCHEMA schema_qmvjebjzdwafmhn RENAME TO schema_qmadynfkzohnh98;"
 ```
- 3) Run new project from coordinator (`undefined`)
+ 3) Run new project from coordinator (`QmaDYnfKZohnH98zZQBxUSgnHKmbmwyA8VAf72EyA2zntC`)
 
 #### RAW Upgrade command. For Native requests.
-`ALTER SCHEMA schema_undefined RENAME TO schema_undefined;`
+`ALTER SCHEMA schema_qmvjebjzdwafmhn RENAME TO schema_qmadynfkzohnh98;`
