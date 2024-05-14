@@ -7,6 +7,9 @@
 ### Free Archive Endpoint
 https://rpc-archive.junonetwork.io
 
+https://app.subquery.network/explorer/project/0x18/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: `Dictionary`
