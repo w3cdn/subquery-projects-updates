@@ -1,5 +1,8 @@
 # Subquery project Acala Dictionary
 ####  
+https://app.subquery.network/explorer/project/0x0c/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: `Dictionary`
