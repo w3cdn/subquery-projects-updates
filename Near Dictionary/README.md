@@ -7,6 +7,9 @@
 ### Public Endpoints
 https://archival-rpc.mainnet.near.org
 
+https://app.subquery.network/explorer/project/0x19/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: `Dictionary`
