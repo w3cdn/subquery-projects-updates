@@ -1,6 +1,9 @@
 # Subquery project Moonbeam Dictionary
 ####  Moonbeam is a new Polkadot smart contract platform that makes it easy to build natively interoperable blockchain applications
 
+https://app.subquery.network/explorer/project/0x07/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: `Dictionary`

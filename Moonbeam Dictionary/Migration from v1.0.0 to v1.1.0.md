@@ -7,10 +7,12 @@ New project: QmUHAsweQYXYrY5Swbt1eHkUwnE5iLc7w9Fh62JY6guXEK
 
 ## Upgrade instructions
  1) Stop old project from coordinator (`QmeeqBHdVu7iYnhVE9ZiYEKTWe4jXVUD5pVoGXT6LbCP2t`)
+```
+docker container rm -f query_qmeeqbhdvu7iynhdocker container rm -f node_qmeeqbhdvu7iynh```
  2) Execute query.
 
 ```
-docker exec postgres psql -U postgres -c "ALTER SCHEMA schema_qmeeqbhdvu7iynh RENAME TO schema_qmuhasweqyxyry5;"
+docker exec postgres psql -U indexer_db -c "ALTER SCHEMA schema_qmeeqbhdvu7iynh RENAME TO schema_qmuhasweqyxyry5;"
 ```
  3) Run new project from coordinator (`QmUHAsweQYXYrY5Swbt1eHkUwnE5iLc7w9Fh62JY6guXEK`)
 
