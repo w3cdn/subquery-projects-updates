@@ -11,6 +11,9 @@ The Base mainnet is the primary network of the Base Layer-2, serving as a secure
 Connect in seconds to SubQuery's decentralised network of RPC node operators running around the world so your dApps benefit from more reliable, scalable, and affordable RPC services. By accessing this public RPC endpoint, you agree to our [Free Public RPC terms of service](https://subquery.foundation/public-rpc-terms).
 
 Base is a secure and low-cost Ethereum layer-2 solution built to scale the user base on-chain. Base was incubated within Coinbase is built on the OP Stack, in collaboration with Optimism. Coinbase is joining as one of the core dev teams working on the OP Stack to ensure it's a public good available to everyone. 
+https://app.subquery.network/explorer/project/0x05/overview
+____
+
 ## Project type: `RPC`
 
 ## Project category: ``
