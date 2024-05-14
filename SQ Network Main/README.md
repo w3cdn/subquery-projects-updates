@@ -2,6 +2,9 @@
 ####  This project provides data to support our SubQuery Explorer and other critical components of the network.
 Recommend to use dictionary to speed up indexing: https://dict-tyk.subquery.network/query/base-mainnet
 
+https://app.subquery.network/explorer/project/0x0b/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: ``
