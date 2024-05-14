@@ -5,7 +5,8 @@ Connect in seconds to SubQuery's decentralised network of RPC node operators run
 
 https://app.subquery.network/explorer/project/0x2c/overview
 ____
-#### Deployed At: 2024-05-02T09:19:55____
+#### Deployed At: 2024-05-02T09:19:55
+____
 
 ## Project type:
 `RPC`
