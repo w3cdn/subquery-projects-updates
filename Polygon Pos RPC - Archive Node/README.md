@@ -11,7 +11,8 @@ Polygon is a Layer 2 scaling solution for Ethereum, offering a framework for cre
 
 https://app.subquery.network/explorer/project/0x25/overview
 ____
-#### Deployed At: 2024-03-21T03:10:53____
+#### Deployed At: 2024-03-21T03:10:53
+____
 
 ## Project type:
 `RPC`
