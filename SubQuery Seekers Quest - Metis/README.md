@@ -2,7 +2,8 @@
 ####  This is a project for the [SubQuery Seekers Program](https://seekers.subquery.foundation). It indexes token holders on Metis
 https://app.subquery.network/explorer/project/0x28/overview
 ____
-#### Deployed At: 2024-03-26T04:13:49____
+#### Deployed At: 2024-03-26T04:13:49
+____
 
 ## Project type:
 `Indexer Project`
