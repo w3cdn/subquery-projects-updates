@@ -1,6 +1,9 @@
 # Subquery project Kusama Dictionary
 ####  Kusama is a blockchain canary network for Polkadot, designed for experimentation and innovation by allowing developers to test new features and applications. It uses Proof-of-Stake consensus, supports the creation of parachains, and has its own governance system for voting on upgrades and changes.
 
+https://app.subquery.network/explorer/project/0x02/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: `Dictionary`
