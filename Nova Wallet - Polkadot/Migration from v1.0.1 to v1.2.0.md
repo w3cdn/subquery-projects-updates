@@ -9,7 +9,7 @@ New project: Qmea9t8EGmHenMwAvhiYyzANYobGLNb37E6bs5QzZFxtiX
  1) Stop old project from coordinator (`QmUSvntAvxr1kUGESMbugxxUJaGRY13JcgG1wDphs3nMeV`)
 
 ```
-docker container rm -f query_qmusvntavxr1kugdocker container rm -f node_qmusvntavxr1kug
+docker container rm -f query_qmusvntavxr1kug && docker container rm -f node_qmusvntavxr1kug
 ```
 
  2) Execute query.
