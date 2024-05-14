@@ -23,3 +23,17 @@ docker exec postgres psql -U indexer_db -c "ALTER SCHEMA schema_qmuwd1o3bjb5qsr 
 
 #### RAW Upgrade command. For Native requests.
 `ALTER SCHEMA schema_qmuwd1o3bjb5qsr RENAME TO schema_qmcvcn4gzkib2jk;`
+
+
+___
+### Setup your own indexer:
+
+[https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md](https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md)
+
+### Projects Updates Alerts channel:
+
+[https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD](https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD)
+
+### Subquery Indexers Monitoring:
+
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot)
