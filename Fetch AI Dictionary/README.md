@@ -3,6 +3,9 @@
 
 ### Free Endpoint\n- https://rpc-fetchhub.fetch.ai
 
+https://app.subquery.network/explorer/project/0x17/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: `Dictionary`
