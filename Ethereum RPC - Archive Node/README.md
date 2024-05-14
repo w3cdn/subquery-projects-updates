@@ -11,6 +11,9 @@ The Ethereum mainnet is the primary network of the Ethereum blockchain, serving 
 Connect in seconds to SubQuery's decentralised network of RPC node operators running around the world so your dApps benefit from more reliable, scalable, and affordable RPC services. By accessing this public RPC endpoint, you agree to our [Free Public RPC terms of service](https://subquery.foundation/public-rpc-terms).
 
 Ethereum is a public, permissionless network that allows anyone to participate by running a node, mining, or interacting with smart contracts. The mainnet facilitates the creation and execution of smart contracts, which are self-executing contracts with the terms of the agreement between buyer and seller directly written into lines of code. These contracts run on the Ethereum Virtual Machine (EVM), a decentralized, Turing-complete virtual machine that executes scripts using an international network of public nodes. Participants on the Ethereum mainnet use Ether (ETH), the network's native cryptocurrency, for transactions, smart contract execution, and as a store of value.
+https://app.subquery.network/explorer/project/0x04/overview
+____
+
 ## Project type: `RPC`
 
 ## Project category: ``
