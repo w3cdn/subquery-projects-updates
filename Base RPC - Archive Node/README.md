@@ -13,15 +13,34 @@ Connect in seconds to SubQuery's decentralised network of RPC node operators run
 Base is a secure and low-cost Ethereum layer-2 solution built to scale the user base on-chain. Base was incubated within Coinbase is built on the OP Stack, in collaboration with Optimism. Coinbase is joining as one of the core dev teams working on the OP Stack to ensure it's a public good available to everyone. 
 https://app.subquery.network/explorer/project/0x06/overview
 ____
+#### Deployed At: 2024-02-23T08:19:21____
 
-## Project type: `RPC`
+## Project type:
+`RPC`
 
-## Project category: ``
+## Project category:
+``
 
-## Is Project Official? `Yes`
+## Is Project Official?
+`Yes`
 
-## Latest release version: `1.0.0`
+## Latest release version:
+`1.0.0`
 
-## Latest release hash: `QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
+## Latest release hash:
+`QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
 
-## Deployed At: 2024-02-23T08:19:21
+
+
+___
+### Setup your own indexer:
+
+[https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md](https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md)
+
+### Projects Updates Alerts channel:
+
+[https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD](https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD)
+
+### Subquery Indexers Monitoring:
+
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot)
