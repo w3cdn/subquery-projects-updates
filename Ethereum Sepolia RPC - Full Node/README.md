@@ -11,15 +11,34 @@ Ethereum is a public, permissionless network that allows anyone to participate b
 
 https://app.subquery.network/explorer/project/0x26/overview
 ____
+#### Deployed At: 2024-03-21T03:24:29____
 
-## Project type: `RPC`
+## Project type:
+`RPC`
 
-## Project category: ``
+## Project category:
+``
 
-## Is Project Official? `Yes`
+## Is Project Official?
+`Yes`
 
-## Latest release version: `1.0.0`
+## Latest release version:
+`1.0.0`
 
-## Latest release hash: `QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
+## Latest release hash:
+`QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
 
-## Deployed At: 2024-03-21T03:24:29
+
+
+___
+### Setup your own indexer:
+
+[https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md](https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md)
+
+### Projects Updates Alerts channel:
+
+[https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD](https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD)
+
+### Subquery Indexers Monitoring:
+
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot)
