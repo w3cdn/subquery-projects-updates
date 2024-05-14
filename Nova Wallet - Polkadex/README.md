@@ -12,7 +12,8 @@ Following API & datasource is supported: 📚 Transfers and extrinsics (transact
 
 https://app.subquery.network/explorer/project/0x20/overview
 ____
-#### Deployed At: 2024-02-25T13:16:19____
+#### Deployed At: 2024-02-25T13:16:19
+____
 
 ## Project type:
 `Indexer Project`
