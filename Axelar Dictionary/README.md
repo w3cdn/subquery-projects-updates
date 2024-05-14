@@ -2,7 +2,8 @@
 ####  Axelar Dictionary
 https://app.subquery.network/explorer/project/0x2a/overview
 ____
-#### Deployed At: 2024-03-29T19:52:57____
+#### Deployed At: 2024-03-29T19:52:57
+____
 
 ## Project type:
 `Indexer Project`
