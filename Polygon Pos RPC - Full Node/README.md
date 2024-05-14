@@ -9,6 +9,9 @@ Connect in seconds to SubQuery's decentralised network of RPC node operators run
 
 Polygon is a Layer 2 scaling solution for Ethereum, offering a framework for creating interconnected blockchain networks. It aims to improve scalability, reduce transaction costs, and enhance the user experience of decentralized applications (dApps). Polygon achieves this by providing a range of scaling solutions, including sidechains, which allow for faster and more efficient transactions compared to the Ethereum mainnet.
 
+https://app.subquery.network/explorer/project/0x24/overview
+____
+
 ## Project type: `RPC`
 
 ## Project category: ``
