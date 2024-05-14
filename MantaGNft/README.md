@@ -1,5 +1,8 @@
 # Subquery project MantaGNft
 ####  
+https://app.subquery.network/explorer/project/0x2b/overview
+____
+
 ## Project type: `Indexer Project`
 
 ## Project category: ``
