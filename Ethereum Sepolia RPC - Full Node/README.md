@@ -9,6 +9,9 @@ Connect in seconds to SubQuery's decentralised network of RPC node operators run
 
 Ethereum is a public, permissionless network that allows anyone to participate by running a node, mining, or interacting with smart contracts. The mainnet facilitates the creation and execution of smart contracts, which are self-executing contracts with the terms of the agreement between buyer and seller directly written into lines of code. These contracts run on the Ethereum Virtual Machine (EVM), a decentralized, Turing-complete virtual machine that executes scripts using an international network of public nodes. Participants on the Ethereum mainnet use Ether (ETH), the network's native cryptocurrency, for transactions, smart contract execution, and as a store of value..
 
+https://app.subquery.network/explorer/project/0x26/overview
+____
+
 ## Project type: `RPC`
 
 ## Project category: ``
