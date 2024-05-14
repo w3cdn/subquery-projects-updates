@@ -9,7 +9,8 @@ https://rpc-archive.junonetwork.io
 
 https://app.subquery.network/explorer/project/0x18/overview
 ____
-#### Deployed At: 2024-02-25T12:47:01____
+#### Deployed At: 2024-02-25T12:47:01
+____
 
 ## Project type:
 `Indexer Project`
