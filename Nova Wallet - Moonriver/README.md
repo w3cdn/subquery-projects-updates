@@ -12,15 +12,34 @@ Following API & datasource is supported: 📚 Transfers and extrinsics (transact
 
 https://app.subquery.network/explorer/project/0x1d/overview
 ____
+#### Deployed At: 2024-02-25T13:15:55____
 
-## Project type: `Indexer Project`
+## Project type:
+`Indexer Project`
 
-## Project category: ``
+## Project category:
+``
 
-## Is Project Official? `Yes`
+## Is Project Official?
+`Yes`
 
-## Latest release version: `undefined`
+## Latest release version:
+`undefined`
 
-## Latest release hash: `QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
+## Latest release hash:
+`QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
 
-## Deployed At: 2024-02-25T13:15:55
+
+
+___
+### Setup your own indexer:
+
+[https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md](https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md)
+
+### Projects Updates Alerts channel:
+
+[https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD](https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD)
+
+### Subquery Indexers Monitoring:
+
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot)
