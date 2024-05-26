@@ -15,7 +15,7 @@ docker container rm -f query_qmugn2ep1nvaecs && docker container rm -f node_qmug
  2) Execute query.
 
 ```
-docker exec postgres psql -U indexer_db -c "ALTER SCHEMA schema_qmugn2ep1nvaecs RENAME TO schema_qmwv9ja5aq9cppx;"
+docker exec indexer_db psql -U postgres -c "ALTER SCHEMA schema_qmugn2ep1nvaecs RENAME TO schema_qmwv9ja5aq9cppx;"
 
 ```
 
