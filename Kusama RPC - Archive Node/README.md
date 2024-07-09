@@ -1,5 +1,19 @@
 # Subquery project Kusama RPC - Archive Node
-####  **Public RPC endpoint**: coming soon
+####  **Public RPC endpoint**: 
+
+* Websocket:
+ 
+[Polkadot App (wss://kusama.rpc.subquery.network/public/ws) ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.rpc.subquery.network%2Fpublic%2Fws#/rpc)
+
+* http 
+ 
+https://kusama.rpc.subquery.network/public
+
+An example query for your terminal is
+```
+curl -X POST -H 'Content-Type: application/json'  --data '{"jsonrpc":"2.0","method":"chain_getHeader","params": [],"id":1}' \
+"https://kusama.rpc.subquery.network/public"
+```
 
 Connect in seconds to SubQuery's decentralised network of RPC node operators running around the world so your dApps benefit from more reliable, scalable, and affordable RPC services. By accessing this public RPC endpoint, you agree to our [Free Public RPC terms of service](https://subquery.foundation/public-rpc-terms).
 
@@ -18,7 +32,7 @@ ____
 `Yes`
 
 ## Latest release version:
-`undefined`
+`1.0.0`
 
 ## Latest release hash:
 `QmYdzuFZvvMzKbKqvq5bp2VRPKhutPN4abDZaispMhWYzg`
