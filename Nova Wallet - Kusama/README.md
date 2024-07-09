@@ -12,7 +12,7 @@ Following API & datasource is supported: 📚 Transfers and extrinsics (transact
 
 https://app.subquery.network/explorer/project/0x1b/overview
 ____
-#### Deployed At: 2024-05-09T21:52:05
+#### Deployed At: 2024-07-09T02:53:25
 ____
 
 ## Project type:
@@ -28,7 +28,7 @@ ____
 `undefined`
 
 ## Latest release hash:
-`QmZ7C68DBApnHDagcCcUsCWkGViB6nsqMy1tacji2nfMEo`
+`QmXc3N9Q6wCTMJDjjrHbmUnNK2vYpAaaLGjJLusHAhxEq3`
 
 
 
