@@ -23,7 +23,7 @@ query {
 
 https://app.subquery.network/explorer/project/0x39/overview
 ____
-#### Deployed At: 2024-07-09T03:06:03
+#### Deployed At: 2024-08-27T05:07:51
 ____
 
 ## Project type:
@@ -39,7 +39,7 @@ ____
 `undefined`
 
 ## Latest release hash:
-`QmP9iFKdjUvMYgqff6xkeQQZDeknccKSPZKupKfs2reM9j`
+`QmSC1VBi8Y98qQi7ogeDhENG8kZHfyK8oKxRfb7S2Sx1cA`
 
 
 
