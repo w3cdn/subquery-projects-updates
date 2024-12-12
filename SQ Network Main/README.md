@@ -8,7 +8,7 @@ Use https://base.node.subquery.network/public if that doesn't work out.
 
 https://app.subquery.network/explorer/project/0x0b/overview
 ____
-#### Deployed At: 2024-09-23T02:41:59
+#### Deployed At: 2024-12-10T09:21:33
 ____
 
 ## Project type:
@@ -24,7 +24,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`QmU2g4RHmUvNjPazF7htWQE4qsGJJce7McrGuiXSLxaBx5`
+`QmXMhEA5fnWqNpyaZ6fm2pKmhupPvm1gzM6ix1nK9Fdwdn`
 
 
 
