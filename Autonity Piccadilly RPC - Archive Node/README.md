@@ -15,7 +15,7 @@ Autonity is a public, EVM based, proof-of-stake blockchain for decentralized cle
 
 https://app.subquery.network/explorer/project/0x4d/overview
 ____
-#### Deployed At: 2024-12-09T07:29:39
+#### Deployed At: 2024-12-11T06:41:33
 ____
 
 ## Project type:
@@ -28,10 +28,10 @@ ____
 `Yes`
 
 ## Latest release version:
-`undefined`
+`1.0.0`
 
 ## Latest release hash:
-`QmerSywajbPbgzTQBN5LnRZrnymfvqgSJaDp5R14REUMv1`
+`QmSRadyKJnMi7EyxdAQwncEwT1B6qvyCNcTCHhZJyoPZaX`
 
 
 
