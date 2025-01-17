@@ -1,5 +1,7 @@
 # Subquery project SQ Network Main
-####  This project provides data to support our SubQuery Explorer and other critical components of the network.
+####  # This project doesn't support migrate from old version
+
+This project provides data to support our SubQuery Explorer and other critical components of the network.
 
 ## Dictionary suggestion
 Leave it empty, subql-sdk will use the recommended dictionary by default.
@@ -8,7 +10,7 @@ Use https://base.node.subquery.network/public if that doesn't work out.
 
 https://app.subquery.network/explorer/project/0x0b/overview
 ____
-#### Deployed At: 2024-12-10T09:21:33
+#### Deployed At: 2025-01-17T02:42:53
 ____
 
 ## Project type:
@@ -24,7 +26,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`QmXMhEA5fnWqNpyaZ6fm2pKmhupPvm1gzM6ix1nK9Fdwdn`
+`QmatfdtYP4mxzSjMtsAgGJFC5ZDAean6NyAsumH82YNtH2`
 
 
 
