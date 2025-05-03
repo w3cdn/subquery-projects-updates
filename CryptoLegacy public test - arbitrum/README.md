@@ -1,22 +1,12 @@
 # Subquery project CryptoLegacy public test - arbitrum
 ####  CryptoLegacy is a decentralized application (dApp) built to securely manage inheritance and recovery of crypto assets. It creates personal smart contracts that stay under the user's control until specific conditions are met—like inactivity or confirmation from trusted guardians. When triggered, assets are gradually or immediately distributed to chosen beneficiaries.
 
-Key highlights:
-
-Privacy-focused: Beneficiary information and asset details are encrypted and hidden until distribution.
-
-Security-first: Assets stay in personal wallets until necessary. The system uses battle-tested standards like EIP-2535 (Diamond Standard) and has undergone extensive audits.
-
-No investors, no VCs: Fully independent team passionate about real value, not speculation​.
-
-Automation: If a user becomes inactive and guardians confirm it, assets automatically move into a secure contract for distribution.
-
-Recovery options: Users can add hidden recovery addresses for emergency access​.
+We primarily use SubQuery to track contracts created by users and to store encrypted backups.
 
 Launch: Final release is planned for May 2025​.
 https://app.subquery.network/explorer/project/0x5a/overview
 ____
-#### Deployed At: 2025-04-27T07:44:17
+#### Deployed At: 2025-05-03T02:42:01
 ____
 
 ## Project type:
@@ -32,7 +22,7 @@ ____
 `0.9.0`
 
 ## Latest release hash:
-`QmfQEHWrXp5isoqUFapKX21r59tzzX4cVdYz2iEo4VSqx6`
+`QmRB7HfRvQ3xoBqRugTHaa25ta4JUxik4vcoKPgzSjMeVe`
 
 
 
