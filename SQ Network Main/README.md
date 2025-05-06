@@ -10,7 +10,7 @@ Use https://base.node.subquery.network/public if that doesn't work out.
 
 https://app.subquery.network/explorer/project/0x0b/overview
 ____
-#### Deployed At: 2025-04-01T02:02:53
+#### Deployed At: 2025-05-06T03:23:55
 ____
 
 ## Project type:
@@ -26,7 +26,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`Qmcrb4LNmi215jVL3kbMWvx9X4RVLu3HETa1D5gELr9ZiV`
+`QmUtbKC2VA5nv3frSXTRAJBLXKJDHLi3MWaGKf5ZqDsEaq`
 
 
 
