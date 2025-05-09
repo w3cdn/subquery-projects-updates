@@ -12,7 +12,7 @@ Following API & datasource is supported: 📚 Transfers and extrinsics (transact
 
 https://app.subquery.network/explorer/project/0x1e/overview
 ____
-#### Deployed At: 2024-07-08T03:43:25
+#### Deployed At: 2024-02-25T13:16:03
 ____
 
 ## Project type:
@@ -28,7 +28,7 @@ ____
 `undefined`
 
 ## Latest release hash:
-`QmVWS726M2HdWkREXw6Rifhg5s8uEbDHRLCnMJrDjsLDWe`
+`QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
 
 
 
@@ -39,8 +39,13 @@ ___
 
 ### Projects Updates Alerts channel:
 
-[https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD](https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD)
+[https://t.me/subqueryprojectsupdates](https://t.me/subqueryprojectsupdates) [https://eagleeye.subquery.dev/updates](https://eagleeye.subquery.dev/updates)
 
 ### Subquery Indexers Monitoring:
 
-[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot)
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot) [https://eagleeye.subquery.dev/](https://eagleeye.subquery.dev/)
+
+
+### Subquery Indexers Snapshots:
+
+[https://snapshots.subquery.dev/](https://snapshots.subquery.dev/)
