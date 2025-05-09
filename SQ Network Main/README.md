@@ -1,10 +1,10 @@
 # Subquery project SQ Network Main
 ####  This project provides data to support our SubQuery Explorer and other critical components of the network.
-Recommend to use dictionary to speed up indexing: https://dict-tyk.subquery.network/query/base
+Recommend to use dictionary to speed up indexing: https://dict-tyk.subquery.network/query/base-mainnet
 
 https://app.subquery.network/explorer/project/0x0b/overview
 ____
-#### Deployed At: 2024-02-23T10:26:17
+#### Deployed At: 2024-02-28T09:05:37
 ____
 
 ## Project type:
@@ -20,7 +20,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`QmSPKqh2wbQ2xpBNDAkkeWF5BTzfPvvjEDwxzoY1pyTMNF`
+`Qmb1TTm3xkTBHikQE3QMfVDjszg2dHDir7mZMQS5c4MkDL`
 
 
 
