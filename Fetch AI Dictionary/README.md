@@ -5,7 +5,7 @@
 
 https://app.subquery.network/explorer/project/0x17/overview
 ____
-#### Deployed At: 2024-08-26T07:58:25
+#### Deployed At: 2024-02-25T12:46:53
 ____
 
 ## Project type:
@@ -21,7 +21,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`QmYwhD2r2HCkxUHoCAbMYfYHKc3Kw9hwC8pbPdGDrxR7zo`
+`QmZUynW4WfM5hmQdTxJb9o6xLEU7jTViWXkb4fwiM5VxX2`
 
 
 
@@ -32,8 +32,13 @@ ___
 
 ### Projects Updates Alerts channel:
 
-[https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD](https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD)
+[https://t.me/subqueryprojectsupdates](https://t.me/subqueryprojectsupdates) [https://eagleeye.subquery.dev/updates](https://eagleeye.subquery.dev/updates)
 
 ### Subquery Indexers Monitoring:
 
-[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot)
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot) [https://eagleeye.subquery.dev/](https://eagleeye.subquery.dev/)
+
+
+### Subquery Indexers Snapshots:
+
+[https://snapshots.subquery.dev/](https://snapshots.subquery.dev/)
