@@ -4,7 +4,7 @@ Recommend to use dictionary to speed up indexing: https://dict-tyk.subquery.netw
 
 https://app.subquery.network/explorer/project/0x0b/overview
 ____
-#### Deployed At: 2024-02-28T09:05:37
+#### Deployed At: 2024-04-19T10:44:33
 ____
 
 ## Project type:
@@ -20,7 +20,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`Qmb1TTm3xkTBHikQE3QMfVDjszg2dHDir7mZMQS5c4MkDL`
+`QmedqtyGqvwzv6Gw6vL7bhy2CnmWzQ9eXCd2YWWnY75yEu`
 
 
 
