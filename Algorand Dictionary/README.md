@@ -3,7 +3,7 @@
 
 https://app.subquery.network/explorer/project/0x11/overview
 ____
-#### Deployed At: 2024-02-25T12:05:23
+#### Deployed At: 2025-02-05T08:35:17
 ____
 
 ## Project type:
@@ -19,7 +19,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`QmZUynW4WfM5hmQdTxJb9o6xLEU7jTViWXkb4fwiM5VxX2`
+`QmYT8f7Kfkhrig8PRedoLWQ9SLhfJdLFt2TS44MmWY3Wxt`
 
 
 
