@@ -3,23 +3,23 @@
 
 https://app.subquery.network/explorer/project/0x01/overview
 ____
-#### Deployed At: 2024-02-23T07:16:13
+#### Deployed At: 2024-02-25T11:33:31
 ____
 
 ## Project type:
 `Indexer Project`
 
 ## Project category:
-``
+`Dictionary`
 
 ## Is Project Official?
 `Yes`
 
 ## Latest release version:
-`undefined`
+`1.0.0`
 
 ## Latest release hash:
-`QmQu2Lsfd2xNvjAyNs587272h5hWRKxQkC4H66tSEHe9jR`
+`QmSsbTrWMd7iyT7Vk4c2w6j8BUt2mpMtJpZ3DDnHocpyWe`
 
 
 
