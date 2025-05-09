@@ -1,23 +1,17 @@
 # Subquery project SQ Network Main
-####  # This project doesn't support migrate from old version
-
-This project provides data to support our SubQuery Explorer and other critical components of the network.
-
-## Dictionary suggestion
-Leave it empty, subql-sdk will use the recommended dictionary by default.
-
-Use https://base.node.subquery.network/public if that doesn't work out.
+####  This project provides data to support our SubQuery Explorer and other critical components of the network.
+Recommend to use dictionary to speed up indexing: https://dict-tyk.subquery.network/query/base
 
 https://app.subquery.network/explorer/project/0x0b/overview
 ____
-#### Deployed At: 2025-05-06T03:23:55
+#### Deployed At: 2024-02-23T10:26:17
 ____
 
 ## Project type:
 `Indexer Project`
 
 ## Project category:
-`Analytic`
+``
 
 ## Is Project Official?
 `Yes`
@@ -26,7 +20,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`QmUtbKC2VA5nv3frSXTRAJBLXKJDHLi3MWaGKf5ZqDsEaq`
+`QmSPKqh2wbQ2xpBNDAkkeWF5BTzfPvvjEDwxzoY1pyTMNF`
 
 
 
