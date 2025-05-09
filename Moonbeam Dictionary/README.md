@@ -3,23 +3,23 @@
 
 https://app.subquery.network/explorer/project/0x07/overview
 ____
-#### Deployed At: 2025-02-05T08:19:39
+#### Deployed At: 2024-02-23T08:35:03
 ____
 
 ## Project type:
 `Indexer Project`
 
 ## Project category:
-`Dictionary`
+``
 
 ## Is Project Official?
 `Yes`
 
 ## Latest release version:
-`1.0.0`
+`undefined`
 
 ## Latest release hash:
-`QmUSLNH4HdFwX2XxZidQSxqbKYcRhgCMWBZxd6M2opnE5k`
+`QmdiUBe4xVptz3q2tiXBsXfSwHS5F9uu56F6PruziMu36q`
 
 
 
@@ -30,8 +30,13 @@ ___
 
 ### Projects Updates Alerts channel:
 
-[https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD](https://github.com/web3cdnservices/subquery-projects-updates/blob/master/README.MD)
+[https://t.me/subqueryprojectsupdates](https://t.me/subqueryprojectsupdates) [https://eagleeye.subquery.dev/updates](https://eagleeye.subquery.dev/updates)
 
 ### Subquery Indexers Monitoring:
 
-[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot)
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot) [https://eagleeye.subquery.dev/](https://eagleeye.subquery.dev/)
+
+
+### Subquery Indexers Snapshots:
+
+[https://snapshots.subquery.dev/](https://snapshots.subquery.dev/)
