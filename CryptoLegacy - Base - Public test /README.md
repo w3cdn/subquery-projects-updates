@@ -1,12 +1,14 @@
 # Subquery project CryptoLegacy - Base - Public test 
-####  CryptoLegacy is a decentralized application (dApp) built to securely manage inheritance and recovery of crypto assets. It creates personal smart contracts that stay under the user's control until specific conditions are met—like inactivity or confirmation from trusted guardians. When triggered, assets are gradually or immediately distributed to chosen beneficiaries.
+####  CryptoLegacy for Base network.
+
+CryptoLegacy is a decentralized application (dApp) built to securely manage inheritance and recovery of crypto assets. It creates personal smart contracts that stay under the user's control until specific conditions are met—like inactivity or confirmation from trusted guardians. When triggered, assets are gradually or immediately distributed to chosen beneficiaries.
 
 We primarily use SubQuery to track contracts created by users and to store encrypted backups.
 
 If you have any questions, send me an email PimpMyDapp@proton.me
 https://app.subquery.network/explorer/project/0x60/overview
 ____
-#### Deployed At: 2025-06-28T07:27:53
+#### Deployed At: 2025-06-29T03:25:51
 ____
 
 ## Project type:
@@ -22,7 +24,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`QmNr5DAJ7dQ51hB8J2jeQeSvvGwUQ8dFQYojvu9syMqMoQ`
+`QmXg62tCX1cbxsgwyzbZSbr5YVghcGtmosBM4sdMeUwj4n`
 
 
 
