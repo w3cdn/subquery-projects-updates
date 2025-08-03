@@ -6,7 +6,7 @@ We primarily use SubQuery to track contracts created by users and to store encry
 Have any questions? Send me an email PimpMyDapp@proton.me
 https://app.subquery.network/explorer/project/0x68/overview
 ____
-#### Deployed At: 2025-07-08T12:25:01
+#### Deployed At: 2025-08-03T07:29:29
 ____
 
 ## Project type:
@@ -22,7 +22,7 @@ ____
 `1.1.2`
 
 ## Latest release hash:
-`QmQEy5u5iQB767Syt8cx5XfX4AE2nkrFgPmhgjNv2tN2m2`
+`QmUGCYyCJCzWsjcHD3KK19QvBwM1gmpadkutDjqD7Ub3Ls`
 
 
 
