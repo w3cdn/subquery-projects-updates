@@ -8,7 +8,7 @@ We primarily use SubQuery to track contracts created by users and to store encry
 If you have any questions, send me an email PimpMyDapp@proton.me
 https://app.subquery.network/explorer/project/0x62/overview
 ____
-#### Deployed At: 2025-07-05T01:22:53
+#### Deployed At: 2025-08-20T10:52:27
 ____
 
 ## Project type:
@@ -24,14 +24,14 @@ ____
 `1.0.1`
 
 ## Latest release hash:
-`QmXL8JsmYo44dW5hHKLWbQRA2PzmRuS1hyV3zDvm2qTCsD`
+`QmdmyyaDsnbkHoj2VYtmKBeQfijMkKPrfqHaPfVfamLwwy`
 
 
 
 ___
 ### Setup your own indexer:
 
-[https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md](https://github.com/web3cdnservices/subquery-indexer-toolkit/blob/mainnet/README.md)
+[https://github.com/w3cdn/subquery-indexer-toolkit/blob/mainnet/README.md](https://github.com/w3cdn/subquery-indexer-toolkit/blob/mainnet/README.md)
 
 ### Projects Updates Alerts channel:
 
