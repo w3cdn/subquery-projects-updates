@@ -42,7 +42,7 @@ ___
 
 ### Projects Updates Alerts channel:
 
-[https://t.me/subqueryprojectsupdates](https://t.me/subqueryprojectsupdates) [https://eagleeye.subquery.dev/updates](https://eagleeye.subquery.dev/updates)
+[https://t.me/subquery_projects_tracker](https://t.me/subquery_projects_tracker) [https://eagleeye.subquery.dev/updates](https://eagleeye.subquery.dev/updates)
 
 ### Subquery Indexers Monitoring:
 
