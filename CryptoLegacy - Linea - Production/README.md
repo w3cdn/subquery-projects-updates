@@ -37,7 +37,7 @@ ___
 
 ### Subquery Indexers Monitoring:
 
-[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot) [https://eagleeye.subquery.dev/](https://eagleeye.subquery.dev/)
+[https://t.me/subquery_eagle_eye_reserve_bot](https://t.me/subquery_eagle_eye_reserve_bot) [https://eagleeye.subquery.dev/](https://eagleeye.subquery.dev/)
 
 
 ### Subquery Indexers Snapshots:

@@ -40,4 +40,4 @@ ___
 
 ### Subquery Indexers Monitoring:
 
-[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot)
+[https://t.me/subquery_eagle_eye_reserve_bot](https://t.me/subquery_eagle_eye_reserve_bot)
