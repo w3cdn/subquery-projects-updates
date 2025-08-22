@@ -2,7 +2,7 @@
 ####  # Gamma Strategies Hypervisor data
 https://app.subquery.network/explorer/project/0x6e/overview
 ____
-#### Deployed At: 2025-08-21T14:10:51
+#### Deployed At: 2025-08-22T11:59:17
 ____
 
 ## Project type:
@@ -18,7 +18,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`QmRRAhvrmi7eNKk1xQ1BhADARKjsQ7pLa7QNuAFF7yscXD`
+`Qmdgb2ube3pFhngnJTf3cqmb8HbAPJvLmsYf7ZDLPXQazx`
 
 
 
@@ -33,7 +33,7 @@ ___
 
 ### Subquery Indexers Monitoring:
 
-[https://t.me/subquery_eagle_eye_reserve_bot](https://t.me/subquery_eagle_eye_reserve_bot) [https://eagleeye.subquery.dev/](https://eagleeye.subquery.dev/)
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot) [https://eagleeye.subquery.dev/](https://eagleeye.subquery.dev/)
 
 
 ### Subquery Indexers Snapshots:
