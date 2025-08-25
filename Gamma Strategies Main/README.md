@@ -2,7 +2,7 @@
 ####  # Gamma Strategies Hypervisor data
 https://app.subquery.network/explorer/project/0x6e/overview
 ____
-#### Deployed At: 2025-08-23T02:35:09
+#### Deployed At: 2025-08-25T10:43:13
 ____
 
 ## Project type:
@@ -18,7 +18,7 @@ ____
 `1.0.0`
 
 ## Latest release hash:
-`QmeEa3UGpEjL4FfFVBUh1vrs2Cs8tQXcgaqeNoa5Do2q2a`
+`QmTjEGx1HbLPtZgcNZcK1511Yevpe7PKRzJSAenBLmr1nW`
 
 
 
