@@ -8,7 +8,7 @@ We primarily use SubQuery to track contracts created by users and to store encry
 If you have any questions, send me an email PimpMyDapp@proton.me
 https://app.subquery.network/explorer/project/0x63/overview
 ____
-#### Deployed At: 2025-08-20T10:47:33
+#### Deployed At: 2025-09-11T08:45:55
 ____
 
 ## Project type:
@@ -24,7 +24,7 @@ ____
 `1.0.1`
 
 ## Latest release hash:
-`QmdmyyaDsnbkHoj2VYtmKBeQfijMkKPrfqHaPfVfamLwwy`
+`QmSeKLod8YM7uYYxjPKeCidqmgpsb6VNrxe5jRVQ5AFes7`
 
 
 
@@ -39,7 +39,7 @@ ___
 
 ### Subquery Indexers Monitoring:
 
-[https://t.me/subquery_eagle_eye_reserve_bot](https://t.me/subquery_eagle_eye_reserve_bot) [https://eagleeye.subquery.dev/](https://eagleeye.subquery.dev/)
+[https://t.me/subquery_eagle_eye_bot](https://t.me/subquery_eagle_eye_bot) [https://eagleeye.subquery.dev/](https://eagleeye.subquery.dev/)
 
 
 ### Subquery Indexers Snapshots:
